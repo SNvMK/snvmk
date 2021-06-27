@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**This README.md is show from my /snvmk repository. It is new GitHub feature**
-
-- 🔭 I’m currently working on my [page](https://snvmk.tk)
-- 🌱 I’m currently learning Python (everytime)
-- 💬 Ask me about Python and its libraries (like discord.py)
+- 🔭 I’m currently working on translation of TypeScript site
+- 🌱 I’m currently learning nothing?..
+- 💬 Ask me about Python, JS, TS, Linux
 - ⚡ Fun fact: my nick is russian acronym
